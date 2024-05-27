@@ -2,7 +2,7 @@
 
 this is a simple website to slicing example.com's website.
 
-see at: <https://example.com/>
+see at: <https://example-domain.vercel.app/>
 
 ## Development
 
